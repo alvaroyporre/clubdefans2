@@ -1,0 +1,30 @@
+header {
+    display:block;
+    background: pink;
+    padding:5px 0px;
+    text-align: center;
+}
+section {
+    width: 75%;
+    background: white;
+    float: right;
+    padding-bottom: 10px;
+    padding-top:10px;
+    font-size: 20px;
+}
+aside {
+    float: left;    
+    width: 20%;    
+    background: rgb(255, 255, 255);
+    color: rgb(21, 10, 177);
+    font-family: Comic Sans;
+}
+footer {
+    position: relative;    
+    height: 40px; 
+    padding:5px 0px;
+    clear: both;
+    background: rgb(88, 85, 85);
+    text-align: center;
+    color: white;
+}
